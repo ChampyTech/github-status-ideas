@@ -8,3 +8,128 @@
 A collection of creative, fun, and useful ideas for customizing your GitHub status. Perfect for those who want to make their profile more interesting, unique, or simply get noticed.
 
 📬 **Want to contribute?** Open a pull request or an issue. Even small contributions are welcome!
+
+## 📕 Ideas
+
+- 🚧 Working on something cool...
+- 🧪 Debugging in progress
+- 💻 Coding mode: ON
+- 🔧 Fixing bugs one semicolon at a time
+- 📦 Pushing commits and caffeine
+- 🧱 Brick by brick, line by line
+- 🔍 Reading documentation
+- 🐞 Hunting bugs
+- ⏳ Waiting for the build to finish...
+- 🚀 Deploying something risky
+- 🔁 Git push, git pull, repeat
+- 🛠️ In dev mode
+- 🧑‍💻 Terminal is open
+- 🧠 Focused (I think)
+- ☕ Coffee in hand, code on screen
+- 🧘‍♂️ Taking a break
+- 💤 Just resting my eyes
+- 🔋 Low battery
+- 📖 Skimming through docs
+- 🔒 Working privately
+- 🐢 Moving slowly
+- 🗃 Organizing things
+- ✅ Something is done
+- 🧪 Testing something weird
+- 🤔 Thinking about stuff
+- 🤖 Beep boop
+- 📤 Committing... something
+- 🔍 Searching for something
+- 💬 Reading messages
+- 👀 Watching something fail
+- 🧑‍🏫 Learning mode
+- 🧩 Puzzle unsolved
+- 🧹 Cleaning up
+- 🧊 Cool and calm
+- 🧃 Hydrated and hopeful
+- 🧏 Quiet mode
+- 😴 Sleep pending
+- 🧠 Buffering thoughts
+- 🔧 Tinkering
+- 🌀 In the loop
+- 📎 Just vibing
+- 🧬 Making changes
+- 📥 Pulling something in
+- 📤 Pushing something out
+- ⌨️ Typing... a lot
+- 🧰 Tools everywhere
+- 🕹 Idle (or maybe not)
+- 📡 Still connected
+- 🌿 Feeling fresh
+- 🧊 Frozen or focused
+- 🔋 Running out of energy
+- 🤯 Overflowing
+- 🧠 Full of tabs
+- 🎧 Lo-fi + code
+- 📄 Reviewing something
+- ⏱ Slow and steady
+- 🤐 Silent grind
+- 🌌 Wandering in thought
+- 🎲 Random mode
+- 🧱 Building blocks
+- 🧼 Clean slate
+- 🔗 Linking ideas
+- 🛎 Just a moment
+- 🔍 Looking into it
+- 💾 Saving brainpower
+- 🔭 Exploring new things
+- 🕳 Too deep in something
+- 🚪 Mentally afk
+- 🧪 Still testing
+- 🧪 Might break things
+- 🧭 Navigating life
+- 🧠 Rebooting
+- 📄 Editing something
+- 🎯 Trying to focus
+- 🧠 No thoughts, just code
+- 🧵 Threading ideas
+- 🚧 In progress
+- 🧪 Prototype in the works
+- 🧑‍💻 Terminal vibes
+- 🧑‍🎤 One-man dev band
+- 🚦 Waiting for a sign
+- 💻 Just typing stuff
+- 🎨 Probably designing
+- 🧱 Code stacking
+- 🎒 Packed with tasks
+- 🧰 Toolbox open
+- 🔂 On repeat
+- 🎢 Rollercoaster mode
+- 📐 Measuring nothing
+- 🕳 Lost in lines
+- 🤞 Hoping this works
+- 🧪 Weird stuff happening
+- 🤐 Zero noise
+- 🔍 Inspecting everything
+- 🔄 Restarting again
+- 🚲 Just moving
+- 🧠 Slow thinking
+- 🤖 Robot mode
+- 🧃 Taking it easy
+- 📡 Ping OK
+- 🥢 Maybe magic, maybe not
+- 🧊 Cool but confused
+- 🗂 Somewhere deep in folders
+- 🌠 Random spark
+- 🧠 Still thinking
+- 🔁 Looping thoughts
+- 🧪 Controlled chaos
+- 🎲 Chance-based progress
+- 🧷 Holding it together
+- 🔮 Undefined behavior
+- 🧯 Probably fine
+- 📶 Online-ish
+- 💻 Coding my way through life.
+- 🏗️ Currently building the future (and maybe breaking a few things).
+- 📘 Always learning, always building.
+- 🤝 Open to new projects and collaborations!
+- ❤️ Code is my love language.
+- 🔬 Exploring the depths of [Specific Technology/Area].
+- 🚀 Working on [Project Name] – check it out!
+- 🌍 Contributing to the open-source community.
+- 🧱 Building a better [Specific Product/Service].
+- 🎯 Focused on [Specific Skill] for the next [Time Period].
