@@ -133,3 +133,6 @@ A collection of creative, fun, and useful ideas for customizing your GitHub stat
 - 🌍 Contributing to the open-source community.
 - 🧱 Building a better [Specific Product/Service].
 - 🎯 Focused on [Specific Skill] for the next [Time Period].
+- 🛠️ Working on a side project
+- ✍️ Writing clean code
+- 🧠 Learning something new
