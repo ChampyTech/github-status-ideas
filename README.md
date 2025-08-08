@@ -12,6 +12,7 @@ A collection of creative, fun, and useful ideas for customizing your GitHub stat
 ## 📕 Ideas
 
 ### Actively Coding
+
 - 💻 Coding mode: ON
 - 🛠️ In dev mode
 - 🧑‍💻 Terminal is open
@@ -23,6 +24,7 @@ A collection of creative, fun, and useful ideas for customizing your GitHub stat
 - 💻 Coding my way through life.
 
 ### Building & Creating
+
 - 🚧 Working on something cool...
 - 🧱 Brick by brick, line by line
 - 🧱 Building blocks
@@ -36,6 +38,7 @@ A collection of creative, fun, and useful ideas for customizing your GitHub stat
 - 🎨 Probably designing
 
 ### Debugging & Testing
+
 - 🧪 Debugging in progress
 - 🔧 Fixing bugs one semicolon at a time
 - 🐞 Hunting bugs
@@ -50,6 +53,7 @@ A collection of creative, fun, and useful ideas for customizing your GitHub stat
 - 🔧 Tinkering
 
 ### Git & Operations
+
 - 📦 Pushing commits and caffeine
 - 🚀 Deploying something risky
 - 🔁 Git push, git pull, repeat
@@ -62,6 +66,7 @@ A collection of creative, fun, and useful ideas for customizing your GitHub stat
 - 🔄 Restarting again
 
 ### Learning & Research
+
 - 🔍 Reading documentation
 - 📖 Skimming through docs
 - 🧑‍🏫 Learning mode
@@ -78,6 +83,7 @@ A collection of creative, fun, and useful ideas for customizing your GitHub stat
 - 📄 Editing something
 
 ### Mental States & Focus
+
 - 🧠 Focused (I think)
 - 🤔 Thinking about stuff
 - 🧠 Buffering thoughts
@@ -93,6 +99,7 @@ A collection of creative, fun, and useful ideas for customizing your GitHub stat
 - 🎯 Focused on [Specific Skill] for the next [Time Period].
 
 ### Status & Vibes
+
 - ☕ Coffee in hand, code on screen
 - 🧘‍♂️ Taking a break
 - 💤 Just resting my eyes
@@ -154,6 +161,7 @@ A collection of creative, fun, and useful ideas for customizing your GitHub stat
 - 🔥 Consistency > intensity
 
 ### Funny & Quirky
+
 - 🤖 Beep boop
 - 🧩 Puzzle unsolved
 - 🧹 Cleaning up
