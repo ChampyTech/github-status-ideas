@@ -175,3 +175,7 @@ A collection of creative, fun, and useful ideas for customizing your GitHub stat
 ## 🙏 Contributing
 
 Open a pull request or an issue. Even small contributions are welcome!
+
+## 🎫 License
+
+This project is licensed under the [MIT License](LICENSE.md).
