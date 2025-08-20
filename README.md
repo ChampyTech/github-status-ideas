@@ -171,3 +171,7 @@ A collection of creative, fun, and useful ideas for customizing your GitHub stat
 - 🥢 Maybe magic, maybe not
 - 🤖 Robot mode
 - ❤️ Code is my love language.
+
+## 🙏 Contributing
+
+Open a pull request or an issue. Even small contributions are welcome!
