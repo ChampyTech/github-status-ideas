@@ -14,6 +14,17 @@ A collection of creative, fun, and useful ideas for customizing your GitHub stat
 > [!TIP]
 > Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
 
+### Table of Contents
+
+- [Actively Coding](#actively-coding)
+- [Building & Creating](#building--creating)
+- [Debugging & Testing](#debugging--testing)
+- [Operations](#operations)
+- [Researching](#researching)
+- [Focus](#focus)
+- [Status & Vibes](#status--vibes)
+- [Funny](#funny)
+
 ### Actively Coding
 
 - 💻 Coding mode: ON
